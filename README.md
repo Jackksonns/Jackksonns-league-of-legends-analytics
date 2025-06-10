@@ -164,7 +164,11 @@ The system includes powerful analytical views for deep insights:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Jackksonns/league-of-legends-analytics/issues).
+Contributions, issues, and feature requests are welcome! Please feel free to:
+- Fork the repository
+- Create a new branch for your feature
+- Submit a pull request
+- Open an issue for any bugs or suggestions
 
 ## ⭐ Show your support
 Give a ⭐️ if this project helped you! 
