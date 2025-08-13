@@ -1,10 +1,11 @@
-# League of Legends Data Analysis System 🎮
+# Rift Analytics Nexus 🎮
+# League of Legends Data Analysis System 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jackson-blue)](https://github.com/Jackksonns)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Database](https://img.shields.io/badge/Database-MySQL-orange)](https://www.mysql.com/)
 
-## ✨ Project Highlights
+## Project Highlights
 
 - **Comprehensive Data Analysis**: Transform raw game data into actionable insights
 - **Advanced Analytics**: Track champion performance, item builds, and player statistics
@@ -12,10 +13,10 @@
 - **Professional Insights**: Support both casual players and professional analysts
 - **Optimized Performance**: Efficient database design with optimized queries
 
-## 🎯 Project Introduction
+## Project Introduction
 This is a sophisticated data analysis system based on League of Legends game data. It provides a powerful platform for storing, analyzing, and visualizing various game elements including champion information, item data, match records, and player statistics. The system is designed to help both players and data analysts better understand game trends and make data-driven decisions.
 
-## 📁 Project Structure
+## Project Structure
 ```
 .
 ├── README.md                           # Project documentation
@@ -27,7 +28,7 @@ This is a sophisticated data analysis system based on League of Legends game dat
 └── xquery results(screenshots)/        # Query results screenshots directory
 ```
 
-## 💾 Database Structure
+## Database Structure
 The database features a well-designed schema with the following key components:
 
 1. **champion (Champion Table)**
@@ -65,7 +66,7 @@ The database features a well-designed schema with the following key components:
    - Rarity and level tracking
    - Champion-skin relationship mapping
 
-## 📊 Advanced Analytics Views
+## Advanced Analytics Views
 The system includes powerful analytical views for deep insights:
 
 1. **champion_combinations**
@@ -109,7 +110,7 @@ The system includes powerful analytical views for deep insights:
    - Win rate correlation studies
    - Meta trend tracking
 
-## 🛠️ Usage Instructions
+## 🛠Usage Instructions
 1. **Setup**
    - Import `lol_database.sql` using MySQL
    - Configure database connection
@@ -120,12 +121,12 @@ The system includes powerful analytical views for deep insights:
    - Follow `Xuery for 3 tasks.docx` for query examples
    - Check `xquery results(screenshots)/` for sample outputs
 
-## 💻 Tech Stack
+## Tech Stack
 - **Database**: MySQL (Optimized for performance)
 - **Design Tool**: Draw.io (Professional diagramming)
 - **Documentation**: Markdown, PDF, DOCX
 
-## ⚙️ Technical Specifications
+## Technical Specifications
 1. **Performance Optimized**
    - UTF-8 encoding for international support
    - InnoDB engine for transaction support
@@ -141,7 +142,7 @@ The system includes powerful analytical views for deep insights:
    - Index optimization
    - Query performance monitoring
 
-## 🔧 Maintenance Guidelines
+## Maintenance Guidelines
 1. **Regular Maintenance**
    - Automated database backups
    - Performance monitoring
@@ -159,16 +160,8 @@ The system includes powerful analytical views for deep insights:
 
 ## 👨‍💻 Author
 - GitHub: [@Jackksonns](https://github.com/Jackksonns)
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Please feel free to:
-- Fork the repository
-- Create a new branch for your feature
-- Submit a pull request
-- Open an issue for any bugs or suggestions
+- with other two students (They're coming soon...)
 
 ## ⭐ Show your support
+
 Give a ⭐️ if this project helped you! 
